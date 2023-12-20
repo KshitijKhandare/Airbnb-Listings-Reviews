@@ -8,3 +8,4 @@ Recommended Analysis
 3. Are you able to identify any trends or seasonality in the review data?
 4. Which city offers a better value for travel?
 5. https://www.kaggle.com/code/kshitijkhandare/notebook-airbnb1
+6. DATASET- https://www.kaggle.com/datasets/mysarahmadbhat/airbnb-listings-reviews
